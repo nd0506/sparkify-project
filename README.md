@@ -24,4 +24,14 @@ In this project, we leverage user event data from the Sparkify app to build a ma
 
 ## Repository Structure
 `mini_sparkify_event_data.json.zip` : user event data. This project is using this dataset to build the model to predict churned users.
+
 `Sparkify.ipnb`: Jupyter Notebook file that contains codes for data processing, modeling and model evaluation.
+
+## Libraries used
+Following are libraries used in this project:
+* pandas
+* pyspark
+* matplotlib
+* seaborn
+
+# Acknowledgement
