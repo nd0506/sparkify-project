@@ -35,3 +35,5 @@ Following are libraries used in this project:
 * seaborn
 
 # Acknowledgement
+Data Source & Credit: Udacity Data Science Program
+Project instruction: Udacity's Instructors and Mentors of Data Science Program.
